@@ -1,0 +1,10 @@
+[package]
+name = "lowlife"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.28.1"
+macroquad = "0.4.11"
+yakui = "0.2.0"
+yakui-macroquad = "0.3.1"
